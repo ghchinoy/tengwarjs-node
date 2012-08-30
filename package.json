@@ -1,0 +1,19 @@
+{
+	"name": "tengwarjs-node",
+	"version": "1.0.0",
+	"description": "transcribe latin characters into a tengwar code to be used by webfont",
+	"homepage": "3rin.gs",
+	"author": "G. Hussain Chinoy <pallando@mithlond.com>",
+	"contributors": [
+		{"name": "G. Hussain Chinoy", "email": "pallando@mithlond.com"}
+	],
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"main": "index",
+	"engines": { "node": ">= 0.4.0"},
+	"directories": {
+		"lib": "./lib"
+	}
+}
