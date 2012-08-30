@@ -1,10 +1,12 @@
-=== tengwarjs-node
+tengwarjs-node
+===
+
+Leverages Kris Kowal's [tengwarjs library](https://github.com/kriskowal/tengwarjs).
+
+Please note, there's an existing package, from Kris, himself: [tengwar](https://npmjs.org/package/tengwar)
 
 
-Leverages Kris Kowal's tengwarjs library.
-
-
-https://github.com/kriskowal/tengwarjs
+From the [tengwarjs library](https://github.com/kriskowal/tengwarjs):
 
 Copyright 2011 Kristopher Michael Kowal. All rights reserved.
 Permission is hereby granted, free of charge, to any person obtaining a copy
